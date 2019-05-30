@@ -57,7 +57,7 @@ jump_snd = load_sound('assets/sounds/jump.ogg')
 gem_snd = load_sound('assets/sounds/gem.ogg')
 
 # Images
-idle = load_image('assets/images/characters/platformChar_idle.png')
+idle = load_image('assets/images/characters/kingcobra.png')
 walk1 = load_image('assets/images/characters/platformChar_walk1.png')
 walk2 = load_image('assets/images/characters/platformChar_walk2.png')
 jump = load_image('assets/images/characters/platformChar_jump.png')
@@ -83,9 +83,9 @@ tile_images = { "Grass": load_image('assets/images/tiles/platformPack_tile001.pn
                 "Dirt1": load_image('assets/images/backgrounds/dirtbg.png')
             }
         
-basic_enemy_images = { "walk1": load_image('assets/images/characters/platformPack_tile024.png') }
+basic_enemy_images = { "walk1": load_image('assets/images/characters/archer.png') }
 
-platform_enemy_images = { "walk1": load_image('assets/images/characters/platformPack_tile011.png') } 
+platform_enemy_images = { "walk1": load_image('assets/images/characters/archer_gold.png') } 
 
 item_images = { "Gem": load_image('assets/images/items/platformPack_item008.png') }
 
