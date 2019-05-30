@@ -1,1 +1,1 @@
-# dirty-platforms
+# platformer-final-template

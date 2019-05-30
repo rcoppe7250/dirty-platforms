@@ -1,0 +1,140 @@
+{
+	"layout": {
+		"scale": 64,
+		"size": [50, 11],
+		"start": [1, -2],
+		"goal": [35, 11, 10, 5]
+	},
+
+	"physics": {
+		"gravity": 2.5,
+		"terminal_velocity": 46
+	},
+
+	"music": "assets/sounds/theme.ogg",
+
+	"background": {
+		"color": [0, 0, 0],
+		"image1": "assets/images/backgrounds/dirtbg0.png",
+		"parallax_speed1": 0.6,
+		"parallax_speed2": 0.0
+	},
+
+	"tiles": {
+		"midground": [
+
+		],
+
+		"main": [
+			[1, 10, "Dirt"],
+			[2, 10, "Dirt"],
+			[3, 10, "Dirt"],
+			[0, 10, "Dirt"],
+			[4, 10, "Dirt"],
+			[5, 10, "Dirt"],
+			[6, 10, "Dirt"],
+			[7, 10, "Dirt"],
+			[8, 10, "Dirt"],
+			[9, 10, "Dirt"],
+			[1, 9, "Dirt"],
+			[2, 9, "Dirt"],
+			[3, 9, "Dirt"],
+			[0, 9, "Dirt"],
+			[4, 9, "Dirt"],
+			[5, 9, "Dirt"],
+			[6, 9, "Dirt"],
+			[7, 9, "Dirt"],
+			[8, 9, "Dirt"],
+			[9, 9, "Dirt"],
+			[1, 8, "Dirt"],
+			[2, 8, "Dirt"],
+			[3, 8, "Dirt"],
+			[0, 8, "Dirt"],
+			[4, 8, "Dirt"],
+			[5, 8, "Dirt"],
+			[6, 8, "Dirt"],
+			[7, 8, "Dirt"],
+			[8, 8, "Dirt"],
+			[9, 8, "Dirt"],
+			[1, 8, "Dirt"],
+			[3, 6, "Dirt"],
+			[4, 6, "Dirt"],
+			[5, 6, "Dirt"],
+			[6, 6, "Dirt"],
+			[7, 6, "Dirt"],
+			[8, 6, "Dirt"],
+			[9, 6, "Dirt"],
+			[3, 5, "Dirt"],
+			[4, 5, "Dirt"],
+			[5, 5, "Dirt"],
+			[6, 5, "Dirt"],
+			[7, 5, "Dirt"],
+			[8, 5, "Dirt"],
+			[9, 5, "Dirt"],
+			[3, 4, "Dirt"],
+			[4, 4, "Dirt"],
+			[5, 4, "Dirt"],
+			[6, 4, "Dirt"],
+			[7, 4, "Dirt"],
+			[8, 4, "Dirt"],
+			[9, 4, "Dirt"],
+			[10, 11, "Dirt"],
+			[11, 11, "Dirt"],
+			[12, 11, "Dirt"],
+			[13, 11, "Dirt"],
+			[14, 10, "Dirt"],
+			[15, 10, "Dirt"],
+			[15, 9, "Dirt"],
+			[16, 10, "Dirt"],
+			[16, 9, "Dirt"],
+			[17, 10, "Dirt"],
+			[17, 9, "Dirt"],
+			[16, 8, "Dirt"],
+			[17, 8, "Dirt"],
+			[17, 7, "Dirt"],
+			[18, 10, "Dirt"],
+			[18, 9, "Dirt"],
+			[18, 8, "Dirt"],
+			[18, 7, "Dirt"],
+			[18, 6, "Dirt"],
+			[19, 10, "Dirt"],
+			[19, 9, "Dirt"],
+			[19, 8, "Dirt"],
+			[19, 7, "Dirt"],
+			[19, 6, "Dirt"],
+			[19, 5, "Dirt"],
+			[20, 10, "Dirt"],
+			[20, 9, "Dirt"],
+			[20, 8, "Dirt"],
+			[20, 7, "Dirt"],
+			[20, 6, "Dirt"],
+			[20, 5, "Dirt"],
+			[20, 4, "Dirt"],
+			[23, 3, "Dirt"],
+			[24, 3, "Dirt"],
+			[26, 5, "Dirt"],
+			[27, 5, "Dirt"],
+			[29, 4, "Dirt"],
+			[30, 4, "Dirt"],
+			[36, 9, "Dirt"],
+			[37, 9, "Dirt"],
+			[40, 7, "Dirt"],
+			[41, 7, "Dirt"]
+		],
+
+		"foreground": [
+
+		]
+	},
+
+	"items": [
+		[10, 2, "Gem"],
+		[34, 3, "Gem"],
+		[22, 1, "Gem"]
+	],
+
+	"enemies": [
+		[20, 3, "BasicEnemy"],
+		[38, 8, "PlatformEnemy"]
+	]
+}
