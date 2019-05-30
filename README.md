@@ -8,3 +8,5 @@ King has eaten a golden egg that belonged to the kingdon! The Queen has sent the
 ![image](https://github.com/rcoppe7250/screenshots/blob/master/screenshot2.PNG?raw=true)
 ![image](https://github.com/rcoppe7250/screenshots/blob/master/screenshot3.PNG?raw=true)
 ![image](https://github.com/rcoppe7250/screenshots/blob/master/screenshot4.PNG?raw=true)
+## Releases
+![url](https://github.com/rcoppe7250/dirty-platforms/releases/tag/game)
